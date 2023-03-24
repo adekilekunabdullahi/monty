@@ -92,3 +92,4 @@ void fill_numbase_buff(unsigned int num, unsigned int base,
 		num /= base;
 		i--;
 	}
+}
